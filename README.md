@@ -1,3 +1,3 @@
 # Dummy-Project
-<br>
-A new Repo is created by Farid ur Rehman.
+A new Repo is created <br>
+by Farid ur Rehman.
