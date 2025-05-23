@@ -1,3 +1,8 @@
 # Dummy-Project
-A new Repo is created <br>
-by Farid ur Rehman.
+This is a demo for Git &amp; Github class.
+
+# Teacher
+Shahid Naeem.
+
+# Student 
+Farid ur Rehman.
